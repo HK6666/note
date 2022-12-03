@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "791cccfa0d191209",
+    "type": "split",
+    "children": [
+      {
+        "id": "756a8f21594d3d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f2dce411773579",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74d868400773bc86",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b99df5b0a0600d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "796825c2a2c90959",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4ee62b079ceb0ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a82cc32e86d953ef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d95fb197a2b1550",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbfe45cab49157d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d6d9cb5eadd901",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e8998172819f215",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "091e137ac7420c13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fb6493d86be53db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "796825c2a2c90959",
+  "lastOpenFiles": [
+    "java/spring/源码/未命名.md",
+    "测评/ipad/ipad生产力/IPAD是便携写代码神器？「IPAD PRO 2022 编码工具测评」.md",
+    "unsw/comp9311/WEEK9.md",
+    "unsw/comp9311/WEEK10.md",
+    "unsw/comp9311/WEEK7.md",
+    "unsw/comp9311/WEEK8.md",
+    "img/我测试一下.md",
+    "img/序列化的例子3.png",
+    "img/序列化的例子2.png",
+    "img/事务操作符号定义.png"
+  ]
+}
