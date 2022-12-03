@@ -11,8 +11,12 @@
             "id": "38f2dce411773579",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "java/spring/源码/test1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java/spring/源码/test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java/spring/源码/test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,19 +124,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "java/spring/源码/test1.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "796825c2a2c90959",
+  "active": "091e137ac7420c13",
   "lastOpenFiles": [
-    "java/spring/源码/未命名.md",
+    "2022-12-03.md",
+    "java/spring/源码/test1.md",
     "测评/ipad/ipad生产力/IPAD是便携写代码神器？「IPAD PRO 2022 编码工具测评」.md",
     "unsw/comp9311/WEEK9.md",
     "unsw/comp9311/WEEK10.md",
@@ -138,7 +147,6 @@
     "unsw/comp9311/WEEK8.md",
     "img/我测试一下.md",
     "img/序列化的例子3.png",
-    "img/序列化的例子2.png",
-    "img/事务操作符号定义.png"
+    "img/序列化的例子2.png"
   ]
 }
