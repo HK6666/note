@@ -9,6 +9,7 @@
 原型发现循环依赖：解析加入currentlyCreationSet 一样（主要是没有查询一级缓存的逻辑）用的ThreadLocal-currentlyInCreationSet
 
 ## 早期对象
+    bean的生命周期：实例化-属性赋值-初始化-销毁
 	1.未进行属性注入的
 	2.未进行对象init方法调用
 	3.未进行后处理器处理
