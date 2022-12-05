@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2a4be618dc480507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/spring/spring是怎么解决循环依赖问题的.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a45cc5a69b0fbba8",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d95fb197a2b1550",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/基础/注解/元注解.md",
+                "file": "java/spring/spring是怎么解决循环依赖问题的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/基础/注解/元注解.md",
+                "file": "java/spring/spring是怎么解决循环依赖问题的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/基础/注解/元注解.md"
+                "file": "java/spring/spring是怎么解决循环依赖问题的.md"
               }
             }
           }
@@ -159,19 +172,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "35e2237f212c1014",
+  "active": "2a4be618dc480507",
   "lastOpenFiles": [
-    "java/基础/反射/反射.md",
     "java/spring/源码/琐碎知识点.md",
+    "java/基础/注解/元注解.md",
+    "java/基础/反射/反射.md",
     "unsw/comp9311/WEEK10.md",
     "unsw/comp9311/WEEK9.md",
     "unsw/comp9311/WEEK8.md",
     "2022-12-03.md",
     "测评/ipad/ipad生产力/IPAD是便携写代码神器？「IPAD PRO 2022 编码工具测评」.md",
     "unsw/comp9311/WEEK7.md",
-    "img/我测试一下.md",
-    "img/序列化的例子3.png"
+    "img/我测试一下.md"
   ]
 }
