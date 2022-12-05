@@ -6,4 +6,4 @@
 
 单例发现循环依赖：先解析beanA 存入一个currentlyCreationSet 再解析beanB 又触发beanA解析，触发冲突
 
-原型发现循环依赖：解析加入currentlyCreationSet 一样（主要是没有一级缓存尝试获取的逻辑）用的ThreadLocal-currentlyInCreationSet
+原型发现循环依赖：解析加入currentlyCreationSet 一样（主要是没有查询一级缓存的逻辑）用的ThreadLocal-currentlyInCreationSet
