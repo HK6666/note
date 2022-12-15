@@ -1,6 +1,9 @@
 
 教程：https://www.youtube.com/watch?v=V8of3uAfK1c&t=3480s
 
+域名管理：
+https://www.namesilo.com/account_domains.php
+
 数据库信息
 Database name：**sql_xtz666_xyz**
 
